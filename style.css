@@ -1,0 +1,24 @@
+section{
+    background-color: blanchedalmond;
+    display: inline-block;
+    border-style: dashed;
+    word-spacing: 2px;
+}
+
+h2{
+    background-color: burlywood;
+    border-style: dotted;
+    border-color: chocolate;
+}
+
+th{
+    color: whitesmoke;
+    background-color: cornflowerblue;
+}
+
+img{
+    padding: 15px;
+    border: 5px;
+    margin: 5px
+    border-style: dashed;
+}
