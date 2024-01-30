@@ -2,7 +2,8 @@ section{
     background-color: blanchedalmond;
     display: inline-block;
     border-style: dashed;
-    word-spacing: 2px;
+    word-spacing: 0px;
+    padding: 10px;
 }
 
 h2{
